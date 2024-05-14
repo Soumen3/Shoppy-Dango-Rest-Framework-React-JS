@@ -46,7 +46,7 @@ function LoginReg() {
 					</Box>
 					<Box textAlign='center' sx={{mt:2}}>
 							<ShoppingBag sx={{color: 'purple', fontSize: 100}} ></ShoppingBag>
-							<Typography variant="h5" sx={{fontWeight:'bold'}} >Geek-Shop</Typography>
+							<Typography variant="h5" sx={{fontWeight:'bold'}} >Shoppy</Typography>
 						</Box>
 				</Card>
 			</Grid>
